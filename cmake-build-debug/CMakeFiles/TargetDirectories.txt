@@ -1,0 +1,3 @@
+C:/Users/zxyf1/Desktop/gitcode/git-xuexi/cmake-build-debug/CMakeFiles/git_xuexi.dir
+C:/Users/zxyf1/Desktop/gitcode/git-xuexi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zxyf1/Desktop/gitcode/git-xuexi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
